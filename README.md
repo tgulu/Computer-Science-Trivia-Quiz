@@ -28,3 +28,5 @@ You can retake the quiz by clicking on the "Restart Quiz" button.
 This project uses the Open Trivia API to retrieve questions and answer options for the quiz. The API provides a variety of categories and difficulty levels, but this project focuses specifically on computer science trivia questions.
 
 # 5.Video 
+
+https://user-images.githubusercontent.com/86728005/233732277-8281e0dd-8bf1-4a75-b9ad-5b236676f992.mp4
