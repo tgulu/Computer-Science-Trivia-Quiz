@@ -1,0 +1,98 @@
+[
+    {
+      "question": "Which internet company began life as an online bookstore called Cadabra?",
+      "choice1": "Amazon",
+      "choice2": "eBay",
+      "choice3": "Overstock",
+      "choice4": "Shopify",
+      "answer": 1
+    },
+    {
+      "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+      "choice1": "<script href='xxx.js'>",
+      "choice2": "<script name='xxx.js'>",
+      "choice3": "<script src='xxx.js'>",
+      "choice4": "<script file='xxx.js'>",
+      "answer": 3
+    },
+    {
+      "question": " How do you write 'Hello World' in an alert box?",
+      "choice1": "msgBox('Hello World');",
+      "choice2": "alertBox('Hello World');",
+      "choice3": "msg('Hello World');",
+      "choice4": "alert('Hello World');",
+      "answer": 4
+    },
+    {
+        "question": "Moore's law originally stated that the number of transistors on a microprocessor chip would double every...?",
+        "choice1": "Year",
+        "choice2": "Four Years",
+        "choice3": "Two Years",
+        "choice4": "Eight Years",
+        "answer": 1
+      },
+      {
+        "question": "Which data structure does FILO apply to?",
+        "choice1": "Queue",
+        "choice2": "Heap",
+        "choice3": "Stack",
+        "choice4": "Tree",
+        "answer": 3
+      },
+      {
+        "question": "On which computer hardware device is the BIOS chip located?",
+        "choice1": "Hard Disk Drive",
+        "choice2": "Central Processing Unit",
+        "choice3": "Graphics Processing Unit",
+        "choice4": "Motherboard",
+        "answer": 4
+      },
+      {
+        "question": "Which of the following languages is used as a scripting language in the Unity 3D game engine?",
+        "choice1": "Java",
+        "choice2": "C++",
+        "choice3": "Objective-C",
+        "choice4": "C#",
+        "answer": 4
+      },
+      {
+        "question": "Which of these is not a key value of Agile software development?",
+        "choice1": "Individuals and interactions",
+        "choice2": "Comprehensive documentation",
+        "choice3": "Customer collaboration",
+        "choice4": "Responding to change",
+        "answer": 2
+      },
+      {
+        "question": "What does the acronym CDN stand for in terms of networking?",
+        "choice1": "Content Distribution Network",
+        "choice2": "Computational Data Network",
+        "choice3": "Compressed Data Network",
+        "choice4": "Content Delivery Network",
+        "answer": 4
+      },
+      {
+        "question": "In CSS, which of these values CANNOT be used with the position property?",
+        "choice1": "center",
+        "choice2": "static",
+        "choice3": "absolute",
+        "choice4": "relative",
+        "answer": 1
+      },
+      {
+        "question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn't get modified?",
+        "choice1": "Static",
+        "choice2": "Private",
+        "choice3": "Public",
+        "choice4": "Final",
+        "answer": 4
+      },
+      {
+        "question": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
+        "choice1": "512",
+        "choice2": "1000",
+        "choice3": "500",
+        "choice4": "1024",
+        "answer": 2
+      }
+  ]
