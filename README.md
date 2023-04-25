@@ -1,4 +1,4 @@
-# Computer Science Trivia Quiz
+# Computer Science Trivia Quiz URL: https://computerscience-trivia.netlify.app/
 
 This project is a simple quiz web application that tests your knowledge of computer science trivia. 
 The quiz is created using HTML, CSS, and JavaScript and utilizes an open trivia API to get the data used in the quiz.
